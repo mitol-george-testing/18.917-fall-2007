@@ -1,0 +1,30 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ],
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e90a7ed9-d99b-fe38-a149-aad0ca5151a1"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Topics in Algebraic Topology: The Sullivan Conjecture",
+  "course_description": "The goal of this course is to describe some of the tools which enter into the proof of Sullivan's conjecture.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.917",
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "title": "Course Metadata"
+}
